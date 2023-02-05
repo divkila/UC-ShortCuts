@@ -1,6 +1,8 @@
 # UC-ShortCuts
 Project Name: Our project is called UC - ShortCuts: the acronym is UCSC as it is specific to our UC campus in Santa Cruz. Similar names include UC Sexy Calves, etc. 
 
+![Untitled document (1)](https://user-images.githubusercontent.com/61030907/216799412-69ec1873-eb25-451d-8118-2136773720b4.png)
+
 Project Motivation: Was created during CruzHacks 2023. When collaborating, we realized that google maps is often innacurrate and even at times suggests dangerous routes on our campus. Our campus has multiple beautiful paths and shortcuts but they take a while to learn. So, we decided to compile them and make them easy to access through a simple website. 
 
 How it works: The home page of our website starts out with asking the user two questions: 1) where are you currently? and 2) Where are you planning to go?. 

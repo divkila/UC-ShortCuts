@@ -17,6 +17,7 @@ The path includes:
 On the home page, there is also a button regarding the **blue lights**: 
 Clicking that button leads the user to a page asking where the user is closest to (has all 10 colleges plus Mchenry). When the user selects their location, it takes them to a page that has a pictuer of the nearest blue lights. 
 
-What we used: We used Figma and Google Maps, as well as siter.io to transform it into a site. We are looking into a domain name as well. 
+##What we used: 
+We used Figma and Google Maps, as well as siter.io to transform it into a site. We are looking into a domain name as well. 
 
 

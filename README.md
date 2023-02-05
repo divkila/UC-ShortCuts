@@ -20,4 +20,7 @@ Clicking that button leads the user to a page asking where the user is closest t
 ## What we used: 
 We used Figma and Google Maps, as well as siter.io to transform it into a site. We are looking into a domain name as well. 
 
+## Link to our Figma Website Project: UC ShortCuts
+
+https://www.figma.com/proto/Q01If3Cx274iACb1YqPFYo/google-maps-but-for-ucsc?node-id[…]&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A6
 

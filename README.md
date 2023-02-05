@@ -1,5 +1,5 @@
 # UC-ShortCuts
-![Untitled document (1)](https://user-images.githubusercontent.com/61030907/216799412-69ec1873-eb25-451d-8118-2136773720b4.png)
+![Untitled document](https://user-images.githubusercontent.com/61030907/216799726-f0b41739-8497-4887-ab5c-0faf991e652a.jpg)
 
 Project Motivation: Was created during CruzHacks 2023. When collaborating, we realized that google maps is often innacurrate and even at times suggests dangerous routes on our campus. Our campus has multiple beautiful paths and shortcuts but they take a while to learn. So, we decided to compile them and make them easy to access through a simple website. 
 

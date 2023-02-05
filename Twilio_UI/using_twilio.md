@@ -4,4 +4,4 @@ UC ShortCuts uses Twilio to communicate with its users to provide a better exper
 
 Below is an example image using the Twilio interface:
 
-<img width="1000" alt="IMG_5827" src=" ">
+<img width="1000" alt="IMG_5827" src="https://user-images.githubusercontent.com/124422930/216802710-d68c28b0-2170-4d4d-8537-779e4021d9bc.png">
